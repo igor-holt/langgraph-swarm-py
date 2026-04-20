@@ -1,0 +1,17 @@
+# LangGraph Swarm Python — Multi-Agent Framework
+
+> Python framework for multi-agent coordination using LangGraph.
+> Adapted for Genesis Conductor by Igor Holt.
+
+## Features
+- Multi-agent orchestration
+- LangGraph integration
+- Swarm intelligence patterns
+
+## Genesis Conductor Integration
+- Compatible with A2A v0.3 protocol
+- Can be used with Ambient Access Layer
+
+## Creator
+Igor Holt — AI Architect
+https://github.com/igor-holt
